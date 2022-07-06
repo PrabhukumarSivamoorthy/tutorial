@@ -1,1 +1,0 @@
-Added set of lines to verify the branch functionality in the Git

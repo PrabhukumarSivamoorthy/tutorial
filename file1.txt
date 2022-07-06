@@ -1,9 +1,0 @@
-this is a new file
-
-prabhusiva@prabhus-mbp PraticeGit % git log --oneline
-74ccfd5 (HEAD -> master, test1, feature/test1) Unkown commit
-55d35dd Mofided data in file1
-49ee3e9 added lines in file2
-6b1cb38 Modifed the data in the file3
-0631eaf second dummy file
-c6e2847 First commit with dummy files
